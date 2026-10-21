@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "id": "solar-flare",
+  "name": "Solar Flare",
+  "author": "Harbertraj",
+  "version": 1,
+  "mode": "dark",
+  "colors": {
+    "accent": "#FFD60A",
+    "accentSecondary": "#FF7A00",
+    "preview": [
+      "#120C02",
+      "#FFD60A",
+      "#FF7A00"
+    ]
+  },
+  "dsp": {
+    "palette": "solar_flare"
+  },
+  "seekbar": "BEATRAXUS_PULSE",
+  "font": "poppins",
+  "background": {
+    "mode": "BLUR",
+    "blurScale": 0.8,
+    "blurDarkness": 0.5,
+    "solidIntensity": 0.6,
+    "solidDarkness": 0.4
+  }
+}

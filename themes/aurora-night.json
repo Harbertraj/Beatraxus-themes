@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "id": "aurora-night",
+  "name": "Aurora Night",
+  "author": "Harbertraj",
+  "version": 1,
+  "mode": "dark",
+  "colors": {
+    "accent": "#3CF2C0",
+    "accentSecondary": "#8B5CF6",
+    "preview": [
+      "#0B0B14",
+      "#3CF2C0",
+      "#8B5CF6"
+    ]
+  },
+  "dsp": {
+    "palette": "aurora_dusk"
+  },
+  "seekbar": "BEATRAXUS_MATRIX",
+  "font": "outfit",
+  "background": {
+    "mode": "BLUR",
+    "blurScale": 1.0,
+    "blurDarkness": 0.4,
+    "solidIntensity": 0.6,
+    "solidDarkness": 0.4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "id": "cyber-pop",
+  "name": "Cyber Pop",
+  "author": "Harbertraj",
+  "version": 1,
+  "mode": "dark",
+  "colors": {
+    "accent": "#22D3EE",
+    "accentSecondary": "#E879F9",
+    "preview": [
+      "#0A0A18",
+      "#22D3EE",
+      "#E879F9"
+    ]
+  },
+  "dsp": {
+    "palette": "cyber_pop"
+  },
+  "seekbar": "BEATRAXUS_PRISM",
+  "font": "orbitron",
+  "background": {
+    "mode": "BLUR",
+    "blurScale": 1.2,
+    "blurDarkness": 0.35,
+    "solidIntensity": 0.6,
+    "solidDarkness": 0.4
+  }
+}

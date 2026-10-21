@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "id": "midnight-black",
+  "name": "Midnight Black",
+  "author": "Harbertraj",
+  "version": 1,
+  "mode": "dark",
+  "colors": {
+    "accent": "#7DD3FC",
+    "accentSecondary": "#6366F1",
+    "preview": [
+      "#000000",
+      "#7DD3FC",
+      "#6366F1"
+    ]
+  },
+  "dsp": {
+    "primary": "#7DD3FC",
+    "secondary": "#6366F1"
+  },
+  "seekbar": "BEATRAXUS_THREAD",
+  "font": "inter",
+  "background": {
+    "mode": "BLACK",
+    "blurScale": 1.0,
+    "blurDarkness": 0.4,
+    "solidIntensity": 0.6,
+    "solidDarkness": 0.4
+  }
+}
