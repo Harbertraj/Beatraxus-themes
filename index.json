@@ -5,7 +5,7 @@
       "id": "aurora-night",
       "name": "Aurora Night",
       "author": "Harbertraj",
-      "version": 1,
+      "version": 2,
       "file": "themes/aurora-night.json",
       "mode": "dark",
       "preview": [
@@ -18,7 +18,7 @@
       "id": "cyber-pop",
       "name": "Cyber Pop",
       "author": "Harbertraj",
-      "version": 1,
+      "version": 2,
       "file": "themes/cyber-pop.json",
       "mode": "dark",
       "preview": [
@@ -31,7 +31,7 @@
       "id": "midnight-black",
       "name": "Midnight Black",
       "author": "Harbertraj",
-      "version": 1,
+      "version": 2,
       "file": "themes/midnight-black.json",
       "mode": "dark",
       "preview": [
@@ -44,7 +44,7 @@
       "id": "solar-flare",
       "name": "Solar Flare",
       "author": "Harbertraj",
-      "version": 1,
+      "version": 2,
       "file": "themes/solar-flare.json",
       "mode": "dark",
       "preview": [

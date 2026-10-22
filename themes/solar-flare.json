@@ -3,7 +3,7 @@
   "id": "solar-flare",
   "name": "Solar Flare",
   "author": "Harbertraj",
-  "version": 1,
+  "version": 2,
   "mode": "dark",
   "colors": {
     "accent": "#FFD60A",
@@ -12,7 +12,10 @@
       "#120C02",
       "#FFD60A",
       "#FF7A00"
-    ]
+    ],
+    "background": "#120C02",
+    "surface": "#241707",
+    "text": "#FFF1D6"
   },
   "dsp": {
     "palette": "solar_flare"
@@ -25,5 +28,46 @@
     "blurDarkness": 0.5,
     "solidIntensity": 0.6,
     "solidDarkness": 0.4
+  },
+  "shape": {
+    "cornerScale": 1.4
+  },
+  "player": {
+    "albumArt": "SLIDE",
+    "qualityBadge": "GOLDEN_SHIMMER",
+    "miniStyle": "PILL",
+    "miniHeight": 74,
+    "miniCorner": 46,
+    "miniArtCorner": 26,
+    "miniProgressRing": true,
+    "miniShowTime": true,
+    "miniTintFromArt": true
+  },
+  "surround": {
+    "room": "living",
+    "visualizer": "wave",
+    "beams": true,
+    "animated": true,
+    "arcs": true,
+    "screen": true
+  },
+  "icons": {
+    "color": "#FFE49A",
+    "scale": 1.08,
+    "packTint": true,
+    "pack": {
+      "play": "play.png",
+      "pause": "pause.png",
+      "next": "next.png",
+      "previous": "previous.png",
+      "shuffle": "shuffle.png",
+      "repeat": "repeat.png",
+      "favorite": "favorite.png",
+      "favorite_border": "favorite_border.png",
+      "home": "home.png",
+      "search": "search.png",
+      "library": "library.png",
+      "settings": "settings.png"
+    }
   }
 }

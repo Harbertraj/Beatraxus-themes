@@ -3,7 +3,7 @@
   "id": "aurora-night",
   "name": "Aurora Night",
   "author": "Harbertraj",
-  "version": 1,
+  "version": 2,
   "mode": "dark",
   "colors": {
     "accent": "#3CF2C0",
@@ -12,7 +12,10 @@
       "#0B0B14",
       "#3CF2C0",
       "#8B5CF6"
-    ]
+    ],
+    "background": "#0B0B14",
+    "surface": "#15152A",
+    "text": "#EAFBF6"
   },
   "dsp": {
     "palette": "aurora_dusk"
@@ -25,5 +28,46 @@
     "blurDarkness": 0.4,
     "solidIntensity": 0.6,
     "solidDarkness": 0.4
+  },
+  "shape": {
+    "cornerScale": 1.15
+  },
+  "player": {
+    "albumArt": "DEPTH",
+    "qualityBadge": "GLASSMORPHIC",
+    "miniStyle": "PILL",
+    "miniHeight": 68,
+    "miniCorner": 40,
+    "miniArtCorner": 20,
+    "miniProgressRing": true,
+    "miniShowTime": true,
+    "miniTintFromArt": true
+  },
+  "surround": {
+    "room": "dark",
+    "visualizer": "wave",
+    "beams": true,
+    "animated": true,
+    "arcs": true,
+    "screen": true
+  },
+  "icons": {
+    "color": "#CFFFF1",
+    "scale": 1.0,
+    "packTint": true,
+    "pack": {
+      "play": "play.png",
+      "pause": "pause.png",
+      "next": "next.png",
+      "previous": "previous.png",
+      "shuffle": "shuffle.png",
+      "repeat": "repeat.png",
+      "favorite": "favorite.png",
+      "favorite_border": "favorite_border.png",
+      "home": "home.png",
+      "search": "search.png",
+      "library": "library.png",
+      "settings": "settings.png"
+    }
   }
 }

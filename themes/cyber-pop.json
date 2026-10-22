@@ -3,7 +3,7 @@
   "id": "cyber-pop",
   "name": "Cyber Pop",
   "author": "Harbertraj",
-  "version": 1,
+  "version": 2,
   "mode": "dark",
   "colors": {
     "accent": "#22D3EE",
@@ -12,7 +12,10 @@
       "#0A0A18",
       "#22D3EE",
       "#E879F9"
-    ]
+    ],
+    "background": "#0A0A18",
+    "surface": "#14122B",
+    "text": "#F5E9FF"
   },
   "dsp": {
     "palette": "cyber_pop"
@@ -25,5 +28,43 @@
     "blurDarkness": 0.35,
     "solidIntensity": 0.6,
     "solidDarkness": 0.4
+  },
+  "shape": {
+    "cornerScale": 0.5
+  },
+  "player": {
+    "albumArt": "POP",
+    "qualityBadge": "NEON_PULSE",
+    "miniStyle": "CLASSIC",
+    "miniProgressRing": false,
+    "miniShowTime": true,
+    "miniTintFromArt": false
+  },
+  "surround": {
+    "room": "studio",
+    "visualizer": "spectrum",
+    "beams": true,
+    "animated": true,
+    "arcs": true,
+    "screen": true
+  },
+  "icons": {
+    "color": "#7DEBFF",
+    "scale": 1.05,
+    "packTint": true,
+    "pack": {
+      "play": "play.png",
+      "pause": "pause.png",
+      "next": "next.png",
+      "previous": "previous.png",
+      "shuffle": "shuffle.png",
+      "repeat": "repeat.png",
+      "favorite": "favorite.png",
+      "favorite_border": "favorite_border.png",
+      "home": "home.png",
+      "search": "search.png",
+      "library": "library.png",
+      "settings": "settings.png"
+    }
   }
 }

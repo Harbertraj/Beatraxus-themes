@@ -3,7 +3,7 @@
   "id": "midnight-black",
   "name": "Midnight Black",
   "author": "Harbertraj",
-  "version": 1,
+  "version": 2,
   "mode": "dark",
   "colors": {
     "accent": "#7DD3FC",
@@ -12,7 +12,10 @@
       "#000000",
       "#7DD3FC",
       "#6366F1"
-    ]
+    ],
+    "background": "#000000",
+    "surface": "#0C0C10",
+    "text": "#E6F1FA"
   },
   "dsp": {
     "primary": "#7DD3FC",
@@ -26,5 +29,46 @@
     "blurDarkness": 0.4,
     "solidIntensity": 0.6,
     "solidDarkness": 0.4
+  },
+  "shape": {
+    "cornerScale": 0.8
+  },
+  "player": {
+    "albumArt": "NONE",
+    "qualityBadge": "MINIMAL_OUTLINE",
+    "miniStyle": "PILL",
+    "miniHeight": 58,
+    "miniCorner": 18,
+    "miniArtCorner": 6,
+    "miniProgressRing": false,
+    "miniShowTime": false,
+    "miniTintFromArt": false
+  },
+  "surround": {
+    "room": "dark",
+    "visualizer": "circle",
+    "beams": false,
+    "animated": false,
+    "arcs": false,
+    "screen": true
+  },
+  "icons": {
+    "color": "#BFE3FF",
+    "scale": 0.95,
+    "packTint": true,
+    "pack": {
+      "play": "play.png",
+      "pause": "pause.png",
+      "next": "next.png",
+      "previous": "previous.png",
+      "shuffle": "shuffle.png",
+      "repeat": "repeat.png",
+      "favorite": "favorite.png",
+      "favorite_border": "favorite_border.png",
+      "home": "home.png",
+      "search": "search.png",
+      "library": "library.png",
+      "settings": "settings.png"
+    }
   }
 }
