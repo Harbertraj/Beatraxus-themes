@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "apple-minimal",
+  "name": "Apple Minimal",
+  "author": "Harbertraj",
+  "version": 1,
+  "mode": "dark",
+  "colors": {
+    "accent": "#FA3348",
+    "accentSecondary": "#FF6B78",
+    "preview": ["#0D0D0F", "#FA3348", "#F2F2F7"],
+    "background": "#0D0D0F",
+    "surface": "#1A1A1D",
+    "text": "#F5F5F7"
+  },
+  "dsp": { "primary": "#FA3348", "secondary": "#FF6B78" },
+  "seekbar": "BEATRAXUS_THREAD",
+  "font": "inter",
+  "background": { "mode": "BLUR", "blurScale": 1.0, "blurDarkness": 0.55, "solidIntensity": 0.4, "solidDarkness": 0.55 },
+  "shape": { "cornerScale": 0.95 },
+  "player": {
+    "albumArt": "SOFT_FADE",
+    "qualityBadge": "MINIMAL_OUTLINE",
+    "miniStyle": "CLASSIC",
+    "miniHeight": 60,
+    "miniCorner": 18,
+    "miniArtCorner": 10,
+    "miniProgressRing": false,
+    "miniShowTime": true,
+    "miniTintFromArt": false
+  },
+  "surround": { "room": "studio", "visualizer": "spectrum", "beams": false, "animated": false, "arcs": false, "screen": true }
+}
