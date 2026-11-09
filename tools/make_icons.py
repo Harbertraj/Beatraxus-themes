@@ -16,6 +16,7 @@ STYLES = {
     "aurora-night":   dict(stroke=7, filled=False, round=True),
     "cyber-pop":      dict(stroke=8, filled=True,  round=False),
     "midnight-black": dict(stroke=4, filled=False, round=True),
+    "minimal":        dict(stroke=6, filled=False, round=True),
     "solar-flare":    dict(stroke=10, filled=True, round=True),
 }
 KEYS = ["play", "pause", "next", "previous", "shuffle", "repeat", "favorite", "favorite_border",

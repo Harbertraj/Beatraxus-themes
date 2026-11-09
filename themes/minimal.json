@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "id": "minimal",
+  "name": "Minimal",
+  "author": "Harbertraj",
+  "version": 1,
+  "mode": "dark",
+  "colors": {
+    "accent": "#FF4D9D",
+    "accentSecondary": "#9B5CF6",
+    "preview": ["#0A0A12", "#FF4D9D", "#9B5CF6"],
+    "background": "#0A0A12",
+    "surface": "#1A1A24",
+    "text": "#F7F7FB"
+  },
+  "dsp": { "primary": "#FF4D9D", "secondary": "#9B5CF6" },
+  "seekbar": "BEATRAXUS_THREAD",
+  "font": "inter",
+  "background": { "mode": "BLUR", "blurScale": 1.3, "blurDarkness": 0.5, "solidIntensity": 0.35, "solidDarkness": 0.55 },
+  "shape": { "cornerScale": 1.2 },
+  "player": {
+    "albumArt": "SOFT_FADE",
+    "qualityBadge": "MINIMAL_OUTLINE",
+    "miniStyle": "PILL",
+    "miniHeight": 64,
+    "miniCorner": 32,
+    "miniArtCorner": 40,
+    "miniProgressRing": false,
+    "miniShowTime": false,
+    "miniTintFromArt": false
+  },
+  "surround": { "room": "dark", "visualizer": "circle", "beams": false, "animated": false, "arcs": false, "screen": true },
+  "icons": {
+    "color": "#E9E9F2",
+    "scale": 1.0,
+    "packTint": true,
+    "pack": {
+      "play": "play.png", "pause": "pause.png", "next": "next.png", "previous": "previous.png",
+      "shuffle": "shuffle.png", "repeat": "repeat.png", "favorite": "favorite.png",
+      "favorite_border": "favorite_border.png", "home": "home.png", "search": "search.png",
+      "library": "library.png", "settings": "settings.png"
+    }
+  }
+}

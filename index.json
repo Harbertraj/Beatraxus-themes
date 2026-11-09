@@ -41,6 +41,19 @@
       ]
     },
     {
+      "id": "minimal",
+      "name": "Minimal",
+      "author": "Harbertraj",
+      "version": 1,
+      "file": "themes/minimal.json",
+      "mode": "dark",
+      "preview": [
+        "#0A0A12",
+        "#FF4D9D",
+        "#9B5CF6"
+      ]
+    },
+    {
       "id": "solar-flare",
       "name": "Solar Flare",
       "author": "Harbertraj",
