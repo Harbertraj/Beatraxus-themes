@@ -2,42 +2,16 @@
   "schema": 1,
   "themes": [
     {
-      "id": "aurora-night",
-      "name": "Aurora Night",
+      "id": "apple-minimal",
+      "name": "Apple Minimal",
       "author": "Harbertraj",
-      "version": 2,
-      "file": "themes/aurora-night.json",
+      "version": 1,
+      "file": "themes/apple-minimal.json",
       "mode": "dark",
       "preview": [
-        "#0B0B14",
-        "#3CF2C0",
-        "#8B5CF6"
-      ]
-    },
-    {
-      "id": "cyber-pop",
-      "name": "Cyber Pop",
-      "author": "Harbertraj",
-      "version": 2,
-      "file": "themes/cyber-pop.json",
-      "mode": "dark",
-      "preview": [
-        "#0A0A18",
-        "#22D3EE",
-        "#E879F9"
-      ]
-    },
-    {
-      "id": "midnight-black",
-      "name": "Midnight Black",
-      "author": "Harbertraj",
-      "version": 2,
-      "file": "themes/midnight-black.json",
-      "mode": "dark",
-      "preview": [
-        "#000000",
-        "#7DD3FC",
-        "#6366F1"
+        "#0D0D0F",
+        "#FA3348",
+        "#F2F2F7"
       ]
     },
     {
@@ -51,19 +25,6 @@
         "#0A0A12",
         "#FF4D9D",
         "#9B5CF6"
-      ]
-    },
-    {
-      "id": "solar-flare",
-      "name": "Solar Flare",
-      "author": "Harbertraj",
-      "version": 2,
-      "file": "themes/solar-flare.json",
-      "mode": "dark",
-      "preview": [
-        "#120C02",
-        "#FFD60A",
-        "#FF7A00"
       ]
     }
   ]

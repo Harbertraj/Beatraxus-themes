@@ -9,6 +9,13 @@ the Surround screen look, and icons (recolour, resize, or your own icon images).
 everything it downloads and ignores anything it does not recognise. The Themes screen draws a preview of
 the real app (home, now playing, mini player, icons) from your file, so you can see the result before applying.
 
+## Current official themes
+
+- **Minimal** — the existing dark Minimal theme (kept unchanged).
+- **Apple Minimal** — a restrained Apple Music-inspired dark look with Inter typography, a clean red accent, subtle surfaces, a thin seekbar and a compact classic mini-player.
+
+Themes are appearance presets, not screen-layout bundles. They style the app's existing screens through the appearance settings supported by the installed Beatraxus version.
+
 ## Add a theme (pull request)
 
 1. Copy `themes/aurora-night.json` to `themes/<your-id>.json`.
